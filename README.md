@@ -21,8 +21,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
--   Solution URL: [URL here]()
--   Live Site URL: [Github Pages]()
+-   Solution URL: [Mr Coder youtube](https://www.youtube.com/watch?v=wxwsEZxa1AI&t=1070s)
+-   Live Site URL: [Github Pages](https://tlbtrung-222.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -33,7 +33,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### What I learned
 
--   Align grid items :
+-   Align grid items in cross-axis :
 
 ```css
 .grid-item1 {
@@ -43,6 +43,4 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Continued development
 
--   Semantic HTML5 markup
-
-### Useful resources
+-   Grid properties
